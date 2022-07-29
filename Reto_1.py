@@ -18,5 +18,7 @@ def CDT(usuario :str,capital: int,tiempo: int):
         
     return resultado
 
+  #lo de aquí abajo es apra probar que funcione, esto no se debe poner en el bot, pues él mismo las pone
+  
 print(CDT("AB1012",1000000,3))
 print(CDT("QW3456",5000000,2))
